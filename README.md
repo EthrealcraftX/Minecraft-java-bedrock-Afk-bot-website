@@ -12,11 +12,18 @@
   <a href="https://instagram.com/EthrealCarftX" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://www.minecraft.net/en-us/download/server" target="_blank">
+  <img src="https://img.shields.io/badge/Minecraft-Server%20Download-green?style=for-the-badge&logo=minecraft&logoColor=white" alt="Download Minecraft Server">
+</a>
+
 </p>
 
 ## 📦 Texnologiyalar
 
-- `Node.js` (Express, Telegraf)
+- `Node.js` (Express, Telegraf) <a href="https://nodejs.org/en/download" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-Download%20Latest-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" alt="Download Node.js">
+</a>
+
 - `EJS` — Dinamik HTML sahifalar uchun
 - `bedrock-protocol` & `mineflayer` — Minecraft serverlar bilan ishlash uchun
 - `child_process` — Serverni ishga tushirish/to‘xtatish
@@ -33,7 +40,7 @@ Edit
 
 1. Repozitoriyani klon qiling:
 ```bash
-git clone https://github.com/USERNAME/afk-minecraft-manager.git
+git clone https://github.com/EthrealCarftX/Minecraft-java-bedrock-Afk-bot-website.git
 cd afk-minecraft-manager
 NPM dependency'larni o‘rnating:
 
