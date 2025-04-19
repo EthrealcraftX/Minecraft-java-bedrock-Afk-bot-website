@@ -48,6 +48,12 @@ NPM dependency'larni o‘rnating:
 
 3.```npm install ejs bedrock-protocol mineflayer dayjs fs dotenv axios```
 
+Ishga tushirish:
+
+4.```node server.js```
+
+Sizga ```locahost:3000``` havola beradi consoldi!
+
 ⚠️ Eslatma
 Windows’da detach process ishlashi uchun index.js fayl har bir projectda mavjud bo‘lishi shart.
 
