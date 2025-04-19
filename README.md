@@ -40,7 +40,7 @@ Edit
 
 Repozitoriyani klon qiling:
    
-1.```git clone https://github.com/EthrealCarftX/Minecraft-java-bedrock-Afk-bot-website.git```
+  1.```git clone https://github.com/EthrealCarftX/Minecraft-java-bedrock-Afk-bot-website.git```
 
 2. ```cd Minecraft-java-bedrock-Afk-bot-website```
 
