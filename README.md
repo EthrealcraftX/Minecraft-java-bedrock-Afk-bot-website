@@ -54,12 +54,17 @@ Ishga tushirish:
 
 Sizga ```locahost:3000``` havola beradi consoldi!
 
+
+<h4>Qisqacha malumot</h4>
+
+Create tugmasini boganizdan keyin siz create page ga olib otadi u joyda siz minecraft Ip adress port yozasiz <br> minecraft tur java/bedrock va versiya talesiz keyin **Create** tugmasini bosgachi server avtomatik templayes fayilini clone qilib unga alohida 10 random raqamli fayil ochib joyledi va ozi avto config.json yasedi, agar ozizda mukamal Afk bot fayil bo'lsa templatesdan faqat **index.js** fayil orniga qoysez yetadi!
+
+
 ⚠️ Eslatma
-Windows’da detach process ishlashi uchun index.js fayl har bir projectda mavjud bo‘lishi shart.
+Windows’da detach process ishlashi uchun index.js fayl har bir projectda mavjud bo‘lishi shart, misol: projects/97468926/index.js
 
 Loglar logs/ papkaga yoziladi.
 
-Bedrock server uchun .mcworld template kerak bo‘lishi mumkin.
 
 ❤️ Muallif
 Yaratuvchi: t.me/killerfurqat
