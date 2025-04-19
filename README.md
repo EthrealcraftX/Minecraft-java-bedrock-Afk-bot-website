@@ -2,6 +2,18 @@
 
 **AFK Server Bot** — bu Node.js asosida tuzilgan kuchli Telegram bot va Web API orqali boshqariluvchi Minecraft serverlarini yaratish, ishga tushirish, to‘xtatish, loglarini ko‘rish va avtomatik o‘chirish imkonini beruvchi platformadir.
 
+<p align="center">
+  <a href="https://t.me/avtoserverbot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram Bot">
+  </a>
+  <a href="https://t.me/HypePath" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+  </a>
+  <a href="https://instagram.com/EthrealCarftX" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
 ## 📦 Texnologiyalar
 
 - `Node.js` (Express, Telegraf)
@@ -102,15 +114,3 @@ Bedrock server uchun .mcworld template kerak bo‘lishi mumkin.
 ❤️ Muallif
 Yaratuvchi: t.me/killerfurqat
 AFK Bot loyihasi — HypePath.us uchun maxsus ishlab chiqilgan.
-
-<p align="center">
-  <a href="https://t.me/avtoserverbot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Bot-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram Bot">
-  </a>
-  <a href="https://t.me/HypePath" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram Channel">
-  </a>
-  <a href="https://instagram.com/EthrealCarftX" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
