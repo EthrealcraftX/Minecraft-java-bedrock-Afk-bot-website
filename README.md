@@ -46,7 +46,7 @@ Repozitoriyani klon qiling:
 
 NPM dependency'larni o‘rnating:
 
-3.```npm install ejs bedrock-protocol mineflayer dayjs fs dotenv axios```
+3.```npm install express ejs bedrock-protocol mineflayer dayjs fs dotenv axios```
 
 Ishga tushirish:
 
