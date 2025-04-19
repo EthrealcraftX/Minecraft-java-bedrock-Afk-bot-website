@@ -40,13 +40,13 @@ Edit
 
 Repozitoriyani klon qiling:
    
-  1.```git clone https://github.com/EthrealCarftX/Minecraft-java-bedrock-Afk-bot-website.git```
+1.```git clone https://github.com/EthrealCarftX/Minecraft-java-bedrock-Afk-bot-website.git```
 
-2. ```cd Minecraft-java-bedrock-Afk-bot-website```
+2.```cd Minecraft-java-bedrock-Afk-bot-website```
 
 NPM dependency'larni o‘rnating:
 
-3. ```npm install ejs bedrock-protocol mineflayer dayjs fs dotenv axios```
+3.```npm install ejs bedrock-protocol mineflayer dayjs fs dotenv axios```
 
 ⚠️ Eslatma
 Windows’da detach process ishlashi uchun index.js fayl har bir projectda mavjud bo‘lishi shart.
