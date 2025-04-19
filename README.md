@@ -20,7 +20,6 @@ Edit
 ## 🛠 O‘rnatish
 
 1. Repozitoriyani klon qiling:
-
 ```bash
 git clone https://github.com/USERNAME/afk-minecraft-manager.git
 cd afk-minecraft-manager
@@ -96,6 +95,13 @@ Yuklab olish uchun ZIP arxiv qilishingiz yoki GitHub Releases orqali distributsi
 Windows’da detach process ishlashi uchun index.js fayl har bir projectda mavjud bo‘lishi shart.
 
 Loglar logs/ papkaga yoziladi.
+```
+
+Bedrock server uchun .mcworld template kerak bo‘lishi mumkin.
+
+❤️ Muallif
+Yaratuvchi: t.me/killerfurqat
+AFK Bot loyihasi — HypePath.us uchun maxsus ishlab chiqilgan.
 
 <p align="center">
   <a href="https://t.me/avtoserverbot" target="_blank">
@@ -108,10 +114,3 @@ Loglar logs/ papkaga yoziladi.
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-
-Bedrock server uchun .mcworld template kerak bo‘lishi mumkin.
-
-❤️ Muallif
-Yaratuvchi: @killerfurqat
-AFK Bot loyihasi — HypePath.us uchun maxsus ishlab chiqilgan.
