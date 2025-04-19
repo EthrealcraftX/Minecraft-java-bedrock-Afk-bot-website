@@ -15,7 +15,7 @@
   <a href="https://www.minecraft.net/en-us/download/server" target="_blank">
   <img src="https://img.shields.io/badge/Minecraft-Server%20Download-green?style=for-the-badge&logo=minecraft&logoColor=white" alt="Download Minecraft Server">
 </a>
-a href="https://nodejs.org/en/download" target="_blank">
+<a href="https://nodejs.org/en/download" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-Download%20Latest-brightgreen?style=for-the-badge&logo=node.js&logoColor=white" alt="Download Node.js">
 </a>
 
