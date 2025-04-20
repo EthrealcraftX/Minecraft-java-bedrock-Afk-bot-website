@@ -1,20 +1,25 @@
-# 1. Node.js Alpine versiyasini bazaviy qilib olamiz
-FROM node:20-alpine
+# Debian asosidagi Node.js image ishlatiladi
+FROM node:20
 
-# 2. Git o'rnatamiz, chunki Alpine'da default yo'q
-RUN apk add --no-cache git
+# Git va build tools'larni o‘rnatamiz
+RUN apt-get update && apt-get install -y \
+    git \
+    build-essential \
+    python3 \
+    cmake \
+ && apt-get clean
 
-# 3. Ishchi katalog yaratamiz
+# Ishchi katalog
 WORKDIR /app
 
-# 4. GitHub'dan klon qilamiz
+# Repositoriyni klon qilamiz
 RUN git clone https://github.com/EthrealcraftX/Minecraft-java-bedrock-Afk-bot-website.git
 
-# 5. Klon qilingan papkaga kiramiz
+# Klon qilingan katalogga o‘tamiz
 WORKDIR /app/Minecraft-java-bedrock-Afk-bot-website
 
-# 6. Zaruriy npm paketlarni o'rnatamiz
-RUN npm install express ejs axios dayjs dotenv fs-extra bedrock-protocol mineflayer
-
-# 7. Dastur ishga tushiriladi
+# Paketlarni o‘rnatamiz (shu jumladan raknet-native ni ham)
+COPY package.json ./
+RUN npm install
+# Ishga tushirish
 CMD ["node", "server.js"]
