@@ -1,16 +1,19 @@
 {
-  "name": "afkbot",
+  "name": "minecraft-afk-bot",
   "version": "1.0.0",
+  "description": "AFK bot for Minecraft Java + Bedrock with web interface",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.5.0"
-  },
-  "description": ""
+    "express": "*",
+    "ejs": "*",
+    "axios": "*",
+    "dayjs": "*",
+    "dotenv": "*",
+    "fs-extra": "*",
+    "bedrock-protocol": "*",
+    "mineflayer": "*"
+  }
 }
