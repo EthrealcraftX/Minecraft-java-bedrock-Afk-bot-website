@@ -40,20 +40,20 @@ Edit
 
 Repozitoriyani klon qiling:
    
-1.```clone
+1.```
 git clone https://github.com/EthrealCarftX/Minecraft-java-bedrock-Afk-bot-website.git```
 
-2.```directory
+2.```
 cd Minecraft-java-bedrock-Afk-bot-website```
 
 NPM dependency'larni o‘rnating:
 
-3.```dependencies
+3.```
 npm install express ejs bedrock-protocol mineflayer dayjs fs dotenv axios```
 
 Ishga tushirish:
 
-4.```run server
+4.```
 node server.js```
 
 Sizga ```locahost:3000``` havola beradi consolda!
